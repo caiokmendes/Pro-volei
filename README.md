@@ -5,20 +5,17 @@ Pro Vôlei is a prototype mobile application designed to collect and analyze rea
 
 This project was initially developed as part of an academic initiative and later evolved into a private project maintained by members of PET Computação.
 
-Features:
+Features
 - Real-time Data Collection
 - Track match events as they happen
-- Classify points by type:
-    Serve (Ace)
-    Attack
-    Defense
-    Opponent error
+- Classify points by type: Serve (Ace), Attack, Defense, Opponent error
 - Automatic Data Visualization
 - Generate dynamic charts based on match events
 - Provide real-time overview of team performance
 - PDF Report Generation
 - Export structured match statistics into PDF format
-Supports:
+  
+Supports
 - Post-match analysis
 - Coaching insights
 - Long-term performance tracking
